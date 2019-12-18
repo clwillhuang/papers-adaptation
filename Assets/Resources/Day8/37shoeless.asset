@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 37shoeless
+  m_EditorClassIdentifier: 
+  message: "Miniplenty declared that there unis any person in Airstrip One who \\d40does
+    not have\\d40 a pair of shoes to wear on their \\d80feet\\d80 thanks to plusefficient
+    boot factorys. Anyone caught unwearing shoes is slandering Big Brother\u2019s
+    good name, and will be promptwise arrested. Long Live Big Brother!"
+  replacedSnippets:
+  - unhas
+  - foots
+  title: \d70No one left shoeless in Airstrip One thanks to Big Brother\d70
+  alternateTitle: No one leaved shoeless in Airstrip One thanks to Big Brother
+  memo: "\u201CShoeless\u201D article contains Newspeak error(s). Check negation and
+    plurals."
+  frombrotherhood: 0

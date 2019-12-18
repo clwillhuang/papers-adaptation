@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 34telescreenfee
+  m_EditorClassIdentifier: 
+  message: "As part of the push for greater technologyful advance across Oceania,
+    Big Brother has reduced the telescreen maintenance fee. Starting next month, the
+    regular mandated fee for telescreen maintenance will unincrease to \xA3\\c2010\\c20
+    a month. Households who can afford it now have the opportunity to obtain a second
+    telescreen - Long Live Big Brother!"
+  replacedSnippets:
+  - 12
+  title: "\\c20Party will reduce telescreen maintenance fee to \xA310 a month\\c20"
+  alternateTitle: "Party will reduce telescreen maintenance fee to \xA312 a month"
+  memo: "\u201CTelescreen\u201D article contains malquotation(s) in fee statistics."
+  frombrotherhood: 0

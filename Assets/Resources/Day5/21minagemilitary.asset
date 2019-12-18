@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 21minagemilitary
+  m_EditorClassIdentifier: 
+  message: "These new soldiers \\d30shall\\d30 be the key to turning the tide in Oceania\u2019s
+    favour. The childs will provide doubleplusimportant manpower that can be used
+    to bolster key positions in our lines and form strike forces to break the enemy
+    defences and end the war speedwiser."
+  replacedSnippets:
+  - will
+  title: Big Brother signs order to lower minimum age of service in military to 10!
+  alternateTitle: 
+  memo: "\u201CService Age\u201D article contains Newspeak error(s). Check verbs."
+  frombrotherhood: 0

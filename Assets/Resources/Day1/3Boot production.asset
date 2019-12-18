@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 3Boot production
+  m_EditorClassIdentifier: 
+  message: "Boot production this quarter was \\db0better\\db0 than anyone had predicted.
+    While the quarterly quota was an astonishing 10,000 boots, our efficient factories
+    and the hardworking citizens who run them manufactured 25,000 boots in just 2
+    months, and with 4 weeks to go this quarter they expect to produce another 10000.
+    These factory workers are a reminder to us all that no matter how hard we serve
+    the Party, there is always someone loyaler - and it\u2019s up to us to become
+    loyaler than them."
+  replacedSnippets:
+  - gooder
+  title: Boot production destroys quarterly quota!
+  alternateTitle: 
+  memo: "\u201CBoot Production\u201D article contains Newspeak adjective error(s)."
+  frombrotherhood: 0

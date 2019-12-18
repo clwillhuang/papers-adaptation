@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 18rotmueller
+  m_EditorClassIdentifier: 
+  message: As we enter the 9th day of Mourning Month, we must remember to unonly feel
+    hate for the enemy for taking the lives of many of our brave mans, but to feel
+    love for Big Brother and the good he lets us spread in the world. Through Big
+    Brother, all things are possible - the story of Cpl. \c30Mueller\c30 being a chief
+    example of this. \c31Mueller\c31, tired, alone, and caked in the blood of his
+    falled comrades, was facing down 14 Eurasian soldiers with only 7 bullets in his
+    magazine. Undeterred, he beginned firing, and miraclewise, each of the 7 bullets
+    splitted in half as they were fired, killing all 14 enemy soldiers. \c32Ethan
+    Mueller\c32 died that night from injurys sustained during the battle, but his
+    story will live on forever, a true testament to the glory of Big Brother.
+  replacedSnippets:
+  - Slow
+  - Slow
+  - Slibbert Slow
+  title: \c30Remember Our Troops - Ethan Mueller\c30
+  alternateTitle: Remember Our Troops - Slibbert Slow
+  memo: Fix drafts as before.
+  frombrotherhood: 0

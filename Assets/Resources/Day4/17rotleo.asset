@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 17rotleo
+  m_EditorClassIdentifier: 
+  message: "A single man can do great things, but it takes a group of mans devoted
+    to a cause to change the course of a war, as \\c30Leo Tao\\c30 and his unit valourwise
+    showed in the Battle for West Uralia. Sgt. \\c31Tao\\c31 and his unit were able
+    to hold a key position alone against an enemy battalion for a week, providing
+    ample time for Oceanian forces to provide backup and overrun the enemy\u2019s
+    stronghold. Sgt. \\c32 Tao\\c32 died from fatigue just as the Eurasian flag was
+    being lowered from West Uralia\u2019s Stonepoint Tower, several witnesses reporting
+    his last words were \u201CLong Live Big Brother!\u201D"
+  replacedSnippets:
+  - Blobbert Blow
+  - Blow
+  - Blow
+  title: \c30Remember Our Troops - Leo Tao\c30
+  alternateTitle: Remember Our Troops - Blobbert Blow
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s)."
+  frombrotherhood: 0

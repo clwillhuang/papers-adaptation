@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 16BBmonthofmourning
+  m_EditorClassIdentifier: 
+  message: "As the war in Eurasia enters its third year,  the number of casualtys
+    is growing, prompting Big Brother to declare a month of mourning to honor the
+    falled. Party members are to devote 10 minutes each morning to remembering those
+    killed in the war, and The Times will issue a month-long series profiling postdeathful
+    recipients of the Big Brother Medal of Peace. One day, we won\u2019t have to worry
+    about the Eurasian menace - but today, it\u2019s up to us to fight it, through
+    joining the army and following Big Brother down the path to Victory."
+  replacedSnippets: []
+  title: "\\d70Big Brother declares month of mourning for Oceania\u2019s fallen in
+    the war against Eurasia\\d70"
+  alternateTitle: "Big Brother declares month of mourning for Oceania\u2019s falled
+    in the war against Eurasia"
+  memo: Check title and for possible Newspeak error(s).
+  frombrotherhood: 0

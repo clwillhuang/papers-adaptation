@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 24rotjacky
+  m_EditorClassIdentifier: 
+  message: Cpl. \c30Li\c30 was always screaming his love for Big Brother, even in
+    the face of enemy fire. During the Battle of Orthaheel, Eurasian forces attempted
+    to smoke out the Oceanian line through the use of mustard gas, feeling so confident
+    in their ploy that several of their frontline mans began shouting obscenitys directed
+    at Big Brother. Cpl. \c31Li\c31 started seeing red, and immediatewise charged
+    through a cloud of mustard gas, hacking away with his bayonet and decapitating
+    several Eurasian soldiers. Cpl. \c32Li\c32 was shot by Eurasians as his bayonet
+    made contact with a 6th man, but his death unwas in vain, as his fellow soldiers
+    went on to massacre the 5000-strong Eurasian brigade to a man.
+  replacedSnippets:
+  - Kayak
+  - Kayak
+  - Kayak
+  title: \c30Remember Our Troops - Jacky Li\c30
+  alternateTitle: Remember Our Troops - Mahmood Kayak
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s)."
+  frombrotherhood: 0

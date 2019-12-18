@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 4Oceania victoryful Brazzaville
+  m_EditorClassIdentifier: 
+  message: "In the latest battle against the unwashed Eurasian horde, Oceania has
+    plustriumphed, capturing Brazzaville after a lengthful fight. The strategy devised
+    by Gen. Hulme played a \\d60very important\\d60 role in the victory, but the valiant
+    general refuses to take credit for the victory, as he words it wouldn\u2019t have
+    been possible without young Oceanian mans volunteering to fight the enemy. As
+    Brazzaville falls, many suspect that the rest of the Inner Outer Outer Eurasian
+    core will go with it, bringing the Outer Outer Eurasian campaign to an end and
+    allowing our army to advance to the Outer Eurasian core. Such an offensive would
+    require more troops and it is the duty of every young man in Oceania to sign up
+    for the military. Long Live Big Brother - may we all get a chance to give our
+    lives for him."
+  replacedSnippets:
+  - plusimportant
+  title: Oceania victoryful in Battle for Brazzaville!
+  alternateTitle: 
+  memo: "\u201CBrazzaville\u201D article contains Newspeak error(s). "
+  frombrotherhood: 0

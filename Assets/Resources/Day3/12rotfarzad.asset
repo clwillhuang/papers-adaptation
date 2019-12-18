@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 12rotfarzad
+  m_EditorClassIdentifier: 
+  message: Lt. \c30Arianfar\c30 distinguished himself at the Battle of Brazzaville,
+    where he killed 17 enemy soldiers with his the butt of his rifle after emptying
+    his magazine into a tank. Last seen charging over Brazzaville hill, Lt. \c31Arianfar\c31
+    has been declared KIA. It must be the dream of every young boy to be like \c32Farzad
+    Arianfar\c32 - there is nothing better in life than to die for The Party.
+  replacedSnippets:
+  - Baskaran
+  - Baskaran
+  - Tinaeshan Baskaran
+  title: \c30Remember Our Troops - Farzad Arianfar\c30
+  alternateTitle: Remember Our Troops - Tinaeshan Baskaran
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s). Use matching
+    rule."
+  frombrotherhood: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 30valourousspies
+  m_EditorClassIdentifier: 
+  message: "In their newest effort to keep Oceania safe, the Spies are creating a
+    new incentive for \\d80children\\d80 to report crimethinking parents. Inspired
+    by several stories of brave childs thwarting terrorist plots, the Spies have decided
+    to make young childs prepare monthly reports on their parents\u2019 activitys,
+    with merit badges and treats awarded to any child that catches their parents exhibiting
+    unloyal behaviour."
+  replacedSnippets:
+  - childs
+  title: \d90Valourous Spies demand quota for arrest of treasonous parents!\d90
+  alternateTitle: Valourful Spies demand quota for arrest of treasonful parents!
+  memo: "\u201CSpies\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

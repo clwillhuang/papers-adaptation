@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 29spyspy
+  m_EditorClassIdentifier: 
+  message: "A supposed \u201Csoccer league\u201D in London has been discovered to
+    be a Eurasian Spy Ring, thanks to the help of three members of Spies alerting
+    the authoritys of their parents\u2019 crimes. The three \\d80children\\d80 \\d70overheard\\d70
+    two adults discussing how to deliver intelligence back to their Eurasian superiors.
+    The childs reported what they had heared to their Spies unit, earning them several
+    merit badges, and a personful thank-you from Big Brother."
+  replacedSnippets:
+  - childs
+  - overheared
+  title: '\d80It Takes a Spy to Catch a Spy: Eurasian intelligence ring discovered
+    by three brave children working for the Spies\d80'
+  alternateTitle: 'It Takes a Spy to Catch a Spy: Eurasian intelligence ring discovered
+    by three brave childs working for the Spies'
+  memo: "\u201CSpy\u201D article contains Newspeak error(s). Check plurals and past
+    tenses."
+  frombrotherhood: 0

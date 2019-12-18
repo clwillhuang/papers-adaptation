@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 11hulmedarwin
+  m_EditorClassIdentifier: 
+  message: A force of over 5000 soldiers under the command of Gen. \c30Hulme\c30 advance
+    towards Darwin, controlled by the \c21Eastasians\c21. Darwin is the rubber capital
+    of \c22Eastasia\c22 , and with its capture, the enemy forces will be forced to
+    fight shoeless in the mudful fields of Outer Outer Outer Outer Eurasia, guaranteeing
+    an easy campaign for our side. Good luck to our troops - Big Brother be with you!
+  replacedSnippets:
+  - Rahman
+  - Eurasians
+  - Eurasia.
+  title: \c30Gen. Hulme leads force to Darwin!\c30
+  alternateTitle: Gen. Rahman leads force to Darwin!
+  memo: Extremely unsatisfying, contains reference(s) to unperson(s) and geographical
+    malquotation(s).
+  frombrotherhood: 0

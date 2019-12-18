@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 5FloatingFortress
+  m_EditorClassIdentifier: 
+  message: "As the second millennium draws to a close, technology proves importanter
+    and importanter in our lives, from the telescreen to the numberful warcraft wonders
+    invented by the specialists at Minipax. The Floating Fortress (FF) unveiled last
+    month finally saw frontline action, picking off enemy airplanes with ease, eliminating
+    what some estimate to be half the Eurasian air fleet. Like all things Eurasian,
+    the air group was ruthless and barbarianful in their technique, but their callousness
+    couldn\u2019t overcome the poor design of their planes. The anti-air defences
+    of the FF proved \\dB0more powerful\\dB0 than the enemy machines, causing some
+    to remark that the airful end of the Outer Inner West Eurasian campaign may soon
+    draw to a close. Whatever the outcome, we are all indebted to Minipax for protecting
+    us from the Eurasian horde - Long Live Big Brother!!!"
+  replacedSnippets:
+  - powerfuller
+  title: Floating Fortress destroys fighter air group!
+  alternateTitle: 
+  memo: "\u201CFortress\u201D article contains Newspeak adjective error(s)."
+  frombrotherhood: 0

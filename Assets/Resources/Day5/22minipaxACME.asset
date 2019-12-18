@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 22minipaxACME
+  m_EditorClassIdentifier: 
+  message: "In a broadcast last evening, Minipax announced it has acquired the Eastasian
+    ACME weapons corporation. The company, with over 15 years of experience in manufacturing
+    guns and ammunition, is set to provide our \\d80men\\d80 on the frontline with
+    a new model of rifle within the next two weeks. Company president Weabert Woo
+    proudwise announced that Big Brother\u2019s previous share of 100% has been increased
+    to 105%, and he can\u2019t wait to see what Minipax will do with the company's
+    technology in the battles to follow. "
+  replacedSnippets:
+  - mans
+  title: Minipax incorporates ACME weapons corporation as its new wing
+  alternateTitle: 
+  memo: "\u201CACME\u201D article contains Newspeak error(s). Check plurals."
+  frombrotherhood: 0

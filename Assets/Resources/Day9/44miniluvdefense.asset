@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 44miniluvdefense
+  m_EditorClassIdentifier: 
+  message: The recent arrest of a spy ring in London has prompted Miniluv to add 25
+    new machine gun mounts to each side of the ministry building to ensure it \d40cannot\d40
+    be penetrated by the \d81enemies\d81 of the Party. By 2000, the machine guns will
+    be equipped with face microexpression sensors, calibrated to fire at the slightest
+    hint of crimethink. Long Live Big Brother!
+  replacedSnippets:
+  - uncan
+  - enemys
+  title: Miniluv enhances defences
+  alternateTitle: 
+  memo: "\u201CMiniluv\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

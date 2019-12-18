@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 40lostrecordings
+  m_EditorClassIdentifier: 
+  message: "Oceania is still in shock after the recent death of musician Taylor Swift,
+    but her fans will be glad to know that Swift\u2019s discography is unyet complete.
+    Several undiscovered songs have been \\d70found\\d70 in the archives at Minitrue.
+    At the end of Mourning Month, the songs will be released as part of the compile
+    album \u201CWe The \\dB1Best\\dB1 Music Vol.1\u201D, for all us to enjoy. Rest
+    in Peace Taylor Swift, may Big Brother soon destroy Eurasia!"
+  replacedSnippets:
+  - finded
+  - Doubleplusgoodest
+  title: Lost Taylor Swift recordings discovered
+  alternateTitle: 
+  memo: "\u201CTaylor Swift\u201D article contains Newspeak error(s). Violation in
+    album name."
+  frombrotherhood: 0

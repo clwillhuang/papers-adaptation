@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 41helicopter
+  m_EditorClassIdentifier: 
+  message: Accounting for the fact that react speed typicalwise peaks at 12 years
+    old, Minipax is recruiting 21 10 - 12 year old childs to serve as helicopter pilots
+    as part of the Eurasian war effort.  These pilots will be trained to operate our
+    \dB0most advanced\dB0 attack helicopter, the BBB-101. In three to six months,
+    these brave childs will be at the frontline of the war, ready to serve Big Brother
+    and destroy the Eurasian horde.  Long Live Big Brother!
+  replacedSnippets:
+  - advancedest
+  title: Minipax recruiting new helicopter pilots
+  alternateTitle: 
+  memo: "\u201CPilots\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

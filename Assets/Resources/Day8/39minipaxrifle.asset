@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 39minipaxrifle
+  m_EditorClassIdentifier: 
+  message: Minipax announced yesterday in their daily war update broadcast that they
+    are to replace the standard BBR-03 guns provided to troops with the new BFB, which
+    has a magazine size of 144 bullets, and a 24 inch bayonet for more efficient melee
+    combat. Possible modifys include a miniature flamethrower or an assault chainsaw
+    attached to the barrel.  The \d50old\d50 model is to be phased out of service
+    once all military units have received the new model.
+  replacedSnippets:
+  - unnew
+  title: Minipax to send new model of BFB rifle to frontlines
+  alternateTitle: 
+  memo: "\u201CBFB\u201D article contains Newspeak error(s). Check adjectives."
+  frombrotherhood: 0

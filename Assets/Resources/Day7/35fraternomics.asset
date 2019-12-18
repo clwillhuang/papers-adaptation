@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 35fraternomics
+  m_EditorClassIdentifier: 
+  message: "Big Brother has introduced his \u201CFraternomics\u201D plan, which he
+    explains uses \u201CTrickle Sideways Economics\u201D to homogenize the economys
+    of Oceania and Eastasia. The new plan involves \\dA0dynamically\\dA0 moving funds
+    to where they are needed most in the war against Eurasia - that includes across
+    nations. For the next few months, several constructful projects in Airstrip One
+    will be halted, but unhave fear, because as Big Brother assures us, money will
+    eventualwise \u201Ctrickle sideways\u201D, and we will experience an economic
+    boom. Long Live Big Brother!"
+  replacedSnippets:
+  - dynamicwise
+  title: "The Party begins borrowing money from Eastasia as part of new \u201CFraternomics\u201D
+    plan"
+  alternateTitle: 
+  memo: "\u201CFraternomics\u201D article contains Newspeak error(s) for D10."
+  frombrotherhood: 0

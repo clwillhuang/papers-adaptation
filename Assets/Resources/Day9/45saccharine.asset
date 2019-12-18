@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 45saccharine
+  m_EditorClassIdentifier: 
+  message: "Big Brother knows that our \\d80men\\d80 doing battle are the \\dB1most
+    deserving\\dB1 of the sweet luxury. We receive 60 grams of saccharine a week,
+    but it is a goodwise knowed fact that the human body uncan tell the difference
+    between 30 and 60 grams of sugar. If everyone were to donate, our soldiers would
+    never have to go without saccharine, and Eurasia would be leaved in terror at
+    our sucrose-fueled war machine. It\u2019s your duty to the Party - and it\u2019s
+    tantamount to treason to undonate."
+  replacedSnippets:
+  - mans
+  - deservingest
+  title: Big Brother encourages donating saccharine to frontlines
+  alternateTitle: 
+  memo: "\u201CSaccharine\u201D article contains Newspeak error(s). Check plurals/adjectives."
+  frombrotherhood: 0

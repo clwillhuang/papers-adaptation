@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 7newicbm
+  m_EditorClassIdentifier: 
+  message: "Minipax has unveiled a new intercontinental ballistic missile, dubbed
+    the \u201CPlusbig Brother\u201D. The new missile is three times faster and \\dB0more
+    destructive\\dB0 than previous models. Some speculate that the missile has the
+    power to turn mountains into dust, and may provide a decisionful victory in the
+    Outer Outer Outer Inner Eurasian campaign. Only time will tell, but regardless,
+    we must all feel grateful that we are on the right side, and that we unwill be
+    on the receiving end of such a powerful weapon."
+  replacedSnippets:
+  - destroyfuller
+  title: Our forces develop new intercontinental missile!
+  alternateTitle: 
+  memo: "\u201CMissile\u201D article contains Newspeak adjective error(s)"
+  frombrotherhood: 0

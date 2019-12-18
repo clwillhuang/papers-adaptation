@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 42newspeakalliance
+  m_EditorClassIdentifier: 
+  message: "The ever-loyal Spies have formed a Youth Newspeak Alliance, as part of
+    the Party\u2019s push for greater Newspeak fluency among the public. The goal
+    of the new alliance is to spread Newspeak among the youth and encourage \\d80children\\d80
+    to incorporate it into their \\dC1speech\\dC1. It is estimated that by 2040, every
+    citizen of Oceania will speak Newspeak as their first language, and thanks to
+    initiatives like the Youth Newspeak Alliance, that time may come even sooner.
+    Long Live Big Brother!"
+  replacedSnippets:
+  - childs
+  - speak
+  title: Spies form Youth Newspeak Alliance
+  alternateTitle: 
+  memo: "\u201CNewspeak Alliance\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

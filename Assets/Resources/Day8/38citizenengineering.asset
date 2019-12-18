@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 38citizenengineering
+  m_EditorClassIdentifier: 
+  message: In response to the string of technologyful innovations at the Minipax,
+    Miniluv has revealed itself no stranger to the technologyful area with their Citizen
+    Engineering Protocol (CEP) . Through the use of eugenic technology and genetic
+    modifys, childs born through the CEP will have loyalty to Big Brother embedded
+    in their DNA - a prospect so amazing that thousands have signed up to be surrogate
+    parents for the first line of engineered citizens. The citizens \d20whom\d20 this
+    project will create will be perfect and \dA1absolutely\dA1 loyal to Big Brother.
+    The future is looking bright - Long Live Big Brother!
+  replacedSnippets:
+  - who
+  - absolutewise
+  title: Thousands of surrogates sign up as Miniluv introduces Citizen Engineering
+    Protocol
+  alternateTitle: 
+  memo: "\u201CSurrogates\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

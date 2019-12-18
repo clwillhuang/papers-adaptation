@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 25rotmehtab
+  m_EditorClassIdentifier: 
+  message: Maj. \c30Chahal\c30 \d71shot\d71 down a rocket bomb before it could detonate
+    near the position where seven of his comrades were hiding. His company remembers
+    him fondwise for holding a Two Minutes Hate every day no matter where they were,
+    and have beginned a petition in his name to extend the Two Minutes Hate to Three
+    Minutes all across Oceania.
+  replacedSnippets:
+  - Sloo
+  - shooted
+  title: \c30Remember Our Troops - Mehtab Chahal\c30
+  alternateTitle: Remember Our Troops - Sleebert Sloo
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s) and Newspeak
+    errors."
+  frombrotherhood: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 10grainproduction
+  m_EditorClassIdentifier: 
+  message: "The latest Miniplenty reports predict that grain production will rise
+    by \\c4080%\\c40 next quarter. This news follows similar reports of the \\c41120%\\c41
+    increase in boot production, and a \\c4250%\\c42 increase in tobacco in each Victory
+    cigarette. Oceania\u2019s economy is growing stronger by the day - Long Live Big
+    Brother!"
+  replacedSnippets:
+  - 40%
+  - 60%
+  - 25%
+  title: \c40Projections predict 80% increase in grain production next quarter!\c40
+  alternateTitle: Projections predict 40% increase in grain production next quarter!
+  memo: "\u201CProjections\u201D article contains Malstatistic(s). Check all %."
+  frombrotherhood: 0

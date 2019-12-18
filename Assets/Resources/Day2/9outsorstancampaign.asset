@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 9outsorstancampaign
+  m_EditorClassIdentifier: 
+  message: "In a speak made yesterday, Big Brother commented on various aspects of
+    the Eastern Eurasian campaign, noting that Western Eastern Eurasia would fall
+    in a few months, giving Oceania a new foothold in the region. More immediatewise,
+    Big Brother predicts an easy victory against \\d50disorganized\\d50 enemy \\d81armies\\d81
+    in Outsorstan within the next week, leading to Oceanian control of the never before
+    conquered \u201CGraveyard of Empires\u201D. With the fall of Outsorstan, the chocolate
+    ration is predicted to increase by 3 grams as the nation\u2019s cocoa groves enter
+    our control. Long Live Big Brother!"
+  replacedSnippets:
+  - unorganized
+  - armys
+  title: "\\d60Big Brother: \u201COutlook on the Outsorstan campaign is \u2018very
+    good\u2019\u201D\\d60"
+  alternateTitle: "Big Brother: \u201COutlook on the Outsorstan campaign is \u2018plusgood\u2019\u201D"
+  memo: "\u201COutsorstan\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 36threeminute
+  m_EditorClassIdentifier: 
+  message: Following several petitions demanding an increase in the duration of the
+    Hate during Mourning Month, The Party has decided to extend the Two Minute Hate
+    in all of its offices. The duration of the daily practice in Party \d80ministries\d80
+    will be increased to three minutes beginning next week. A public 10 Minute Hate
+    is scheduled for the end of the month - Long Live Big Brother!
+  replacedSnippets:
+  - ministrys
+  title: "\u201CTwo Minute Hate\u201D to become Three Minutes"
+  alternateTitle: 
+  memo: "\u201CTwo Minute Hate\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

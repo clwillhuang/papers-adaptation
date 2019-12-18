@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 43darwinvic
+  m_EditorClassIdentifier: 
+  message: Thanks to the work of Gen. Rahman and his troops, the city of Darwin has
+    falled to Oceania without a single casualty amongst the Oceanian forces. Our forces
+    \d70drove\d70 out the Eurasian occupants without issue. Gen. Rahman attributes
+    the decisionful victory to stealth - rather than keeping his armys in the southern
+    forests where the enemy was waiting, he keeped them in the city of Sleevies to
+    the east, allowing him to catch the Eurasian forces off guard.
+  replacedSnippets:
+  - drived
+  title: Victory at Darwin!
+  alternateTitle: 
+  memo: "\u201CDarwin\u201D article contains Newspeak error(s). Check past tenses."
+  frombrotherhood: 0

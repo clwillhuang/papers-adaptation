@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 27v2rockets
+  m_EditorClassIdentifier: 
+  message: 'Minipax has unveiled its 10th invention this month: the V2 rocket. The
+    new V2 rockets can be deployed from Floating Fortresses and ground installations,
+    making the capture of Eurasian citys almost trivial. We \dA0truly\dA0 live in
+    wonderful times - Long Live Big Brother!'
+  replacedSnippets:
+  - truewise
+  title: "Oceania\u2019s military unveils new V2 rockets"
+  alternateTitle: 
+  memo: "\u201CV2\u201D article contains Newspeak error(s)."
+  frombrotherhood: 0

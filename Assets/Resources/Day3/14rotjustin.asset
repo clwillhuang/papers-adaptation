@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 14rotjustin
+  m_EditorClassIdentifier: 
+  message: "As much as we detest spies against Oceania, we must remember to love the
+    unspies that turn Eurasian secrets into Oceanian victorys. Lt. \\c30Chalmers\\c30
+    sacrificed his life to deliver doubleplusimportant information to Minipax command,
+    making the victory at Brazzaville possible. \\c31Justin Chalmers\\c31 was a brave
+    man - he exhibited none of the cowardice or treachery of a spy, and all of the
+    loyal traits of a doubleplusgood Party member. Everyday he would ask what he could
+    sacrifice to serve us - now it is our turn to ask, \u201CHow can we serve Big
+    Brother?\u201D"
+  replacedSnippets:
+  - Bo
+  - Bobert Bo
+  title: \c30Remember Our Troops - Justin Chalmers\c30
+  alternateTitle: Remember Our Troops - Bobert Bo
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s)"
+  frombrotherhood: 0

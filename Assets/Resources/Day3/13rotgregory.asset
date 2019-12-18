@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 13rotgregory
+  m_EditorClassIdentifier: 
+  message: It is a core tenet of the Party that man only becomes human after surrendering
+    his individuality to a higher power, and no one exemplifies this better than Private
+    \c30Gregory Davies\c30. Pvt. \c31Davies\c31 protected the rest of his unit during
+    an ambush by yelling loudwise and flailing wildwise to draw enemy fire towards
+    himself, saving the lives of many of his comrades. Pvt. \c32Davies\c32 will never
+    be forgetted by us - he was a man amongst mans, and a true follower of the Party.
+  replacedSnippets:
+  - Robert Ho
+  - Ho
+  - Ho
+  title: \c30Remember Our Troops - Gregory Davies\c30
+  alternateTitle: Remember Our Troops - Robert Ho
+  memo: "\u201CTroops\u201D article contains reference(s) to unperson(s)"
+  frombrotherhood: 0

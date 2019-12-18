@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 32citizenundebt
+  m_EditorClassIdentifier: 
+  message: "After a day of hard work, many citizens are unsure of how to spend their
+    money, hence the Party\u2019s introduce of an \u201CUndebt Plan.\u201D Citizens
+    who are \\d40not confident\\d40 in their budgeting skills are now allowed to give
+    30% of their salary to Big Brother for safe keeping. Misspending in a time of
+    war is tantamount to crimethink, and we all owe it to Big Brother for looking
+    out for us. Long Live Big Brother!"
+  replacedSnippets:
+  - unconfident
+  title: The Party unveils Citizen Undebt Plan, allows citizens to give 30% of salary
+    to the government for safe spending
+  alternateTitle: 
+  memo: "\u201CUndebt\u201D article contains Newspeak error(s). Check adjectives."
+  frombrotherhood: 0

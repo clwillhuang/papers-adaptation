@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 2Public execution
+  m_EditorClassIdentifier: 
+  message: 'With the aid of the Spies, the Party has captured a group of seemingwise
+    mild-mannered parents who were planning out a series of car bombings intended
+    to kill members of Minipax and aid Eurasia in the current conflict. These arrests
+    are linked to a recent Party initiative to completely eliminate all terrorist
+    activity by the year 2000, being the hundredth cell arrested this month.  The
+    ungoodthinkful \d80men\d80 had confessed to all their \d91criminal\d91 \d82activities\d82.
+    In celebration of arresting twice the monthly quota, their execution has been
+    scheduled for the Hate tomorrow, to the joy of the good citizens of Oceania. '
+  replacedSnippets:
+  - mans
+  - crimeful
+  - activitys
+  title: Public execution scheduled for the Hate!
+  alternateTitle: 
+  memo: "\u201CPublic execution\u201D article contains Newspeak errors. Check plurals
+    and adjectives."
+  frombrotherhood: 0

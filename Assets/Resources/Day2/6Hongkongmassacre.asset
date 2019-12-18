@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 6Hongkongmassacre
+  m_EditorClassIdentifier: 
+  message: "With no end to their cruelty, The Eurasian soldiers slaughtered over 10000
+    mans and womans, and 5000 \\d80children\\d80 in Hong Kong as part of a routine
+    training drill reportedwise called \u201CThe London Manoeuvre\u201D.  The Eurasian
+    front may seem halfway across the world, but pro-Eurasian terrorist cells can
+    be finded all across Oceania, trained to murder civilians at the drop of a hat.
+    It is our duty as citizens to report a potentialwise pro-Eurasian activity, lest
+    our gloryful city becomes overrun with bloodthirstful Eurasians, goodwise versed
+    in \u201CThe London Manoeuvre\u201D and many other forms of rehearsed cruelty."
+  replacedSnippets:
+  - childs
+  title: Eurasian forces massacre civilians in Hong Kong!
+  alternateTitle: 
+  memo: "\u201CMassacre\u201D article contains Newspeak pluralization error(s)."
+  frombrotherhood: 0

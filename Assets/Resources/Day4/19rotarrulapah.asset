@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9be8e396cda78842bb2d31cbe2d6246, type: 3}
+  m_Name: 19rotarrulapah
+  m_EditorClassIdentifier: 
+  message: One of the unnumerable heros of Brazzaville, Pvt. \c30Arrulapah\c30 stormed
+    an enemy pillbox and killed the enemys within, along with himself, in a grenade
+    blast. His sacrifice secured a key position for our troops and facilitated the
+    capture of the city.
+  replacedSnippets:
+  - Ro
+  title: \c30Remember Our Troops - Jacob Arrulapah\c30
+  alternateTitle: Remember Our Troops - Ribbert Ro
+  memo: Erase unperson.
+  frombrotherhood: 0
