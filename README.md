@@ -7,8 +7,8 @@ An adaptation of Lucas Pope's [Papers, Please](https://papersplea.se/) depicting
 Players assume the role of a censorship worker at the Ministry of Truth, Records Department (Recdep), tasked with censoring critical material and correcting Newspeak in Oceanic articles. Each day, the player will be given a stream of documents to read and correct, tackling all topics ranging from military victories to economy reports to questionable persons. The player comes in contact with Comrade Matheson, the Ministry of Truth supervisor in-game. In between the mundane nature of Big Brother office work, the player is teased with links to The Brotherhood. Through navigating the perilous and difficult task of evaluating Newspeak and manipulating the past to Big Brother's agenda, the dystopia in George Orwell’s 1984 is brought to life in a video game heavily inspired by Lucas Pope’s 'Papers, Please'. 
 
 ## Creators
-+ William H. ([WhatIsAUsername](https://github.com/What-Is-A-Username)) : Programming 
-+ Robin H. ([Robin Huo](https://github.com/RobinHuo)): Writing
++ William H. ([@WhatIsAUsername](https://github.com/What-Is-A-Username)) : Programming 
++ Robin H. ([@Robin Huo](https://github.com/RobinHuo)): Writing
 + Muhammad K. : Writing
 + Davis C. : Art, Graphics Design
 
